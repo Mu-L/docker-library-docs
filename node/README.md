@@ -72,22 +72,6 @@ WARNING:
 
 -	[`22-trixie-slim`, `22.22-trixie-slim`, `22.22.2-trixie-slim`, `jod-trixie-slim`](https://github.com/nodejs/docker-node/blob/8e93bb03443b68eccbddc0f1e31a5e9756f7e70e/22/trixie-slim/Dockerfile)
 
--	[`20-alpine3.22`, `20.20-alpine3.22`, `20.20.2-alpine3.22`, `iron-alpine3.22`](https://github.com/nodejs/docker-node/blob/0001669cfeee81ddd41a0a16be9321e8a1bf2354/20/alpine3.22/Dockerfile)
-
--	[`20-alpine`, `20-alpine3.23`, `20.20-alpine`, `20.20-alpine3.23`, `20.20.2-alpine`, `20.20.2-alpine3.23`, `iron-alpine`, `iron-alpine3.23`](https://github.com/nodejs/docker-node/blob/0001669cfeee81ddd41a0a16be9321e8a1bf2354/20/alpine3.23/Dockerfile)
-
--	[`20`, `20-bookworm`, `20.20`, `20.20-bookworm`, `20.20.2`, `20.20.2-bookworm`, `iron`, `iron-bookworm`](https://github.com/nodejs/docker-node/blob/8e93bb03443b68eccbddc0f1e31a5e9756f7e70e/20/bookworm/Dockerfile)
-
--	[`20-bookworm-slim`, `20-slim`, `20.20-bookworm-slim`, `20.20-slim`, `20.20.2-bookworm-slim`, `20.20.2-slim`, `iron-bookworm-slim`, `iron-slim`](https://github.com/nodejs/docker-node/blob/8e93bb03443b68eccbddc0f1e31a5e9756f7e70e/20/bookworm-slim/Dockerfile)
-
--	[`20-bullseye`, `20.20-bullseye`, `20.20.2-bullseye`, `iron-bullseye`](https://github.com/nodejs/docker-node/blob/8e93bb03443b68eccbddc0f1e31a5e9756f7e70e/20/bullseye/Dockerfile)
-
--	[`20-bullseye-slim`, `20.20-bullseye-slim`, `20.20.2-bullseye-slim`, `iron-bullseye-slim`](https://github.com/nodejs/docker-node/blob/8e93bb03443b68eccbddc0f1e31a5e9756f7e70e/20/bullseye-slim/Dockerfile)
-
--	[`20-trixie`, `20.20-trixie`, `20.20.2-trixie`, `iron-trixie`](https://github.com/nodejs/docker-node/blob/8e93bb03443b68eccbddc0f1e31a5e9756f7e70e/20/trixie/Dockerfile)
-
--	[`20-trixie-slim`, `20.20-trixie-slim`, `20.20.2-trixie-slim`, `iron-trixie-slim`](https://github.com/nodejs/docker-node/blob/8e93bb03443b68eccbddc0f1e31a5e9756f7e70e/20/trixie-slim/Dockerfile)
-
 # Quick reference (cont.)
 
 -	**Where to file issues**:  
