@@ -28,13 +28,13 @@ WARNING:
 
 ## Simple Tags
 
--	[`8.3.0-rc5-noble`, `8.3-rc-noble`](https://github.com/docker-library/mongo/blob/d7a18fed30efc943c53cf73003afc638a5ba8f59/8.3-rc/Dockerfile)
+-	[`8.3.1-noble`, `8.3-noble`](https://github.com/docker-library/mongo/blob/f9e0e782f5dd8bbd88d8be0e65ff226c898823c5/8.3/Dockerfile)
 
--	[`8.3.0-rc5-windowsservercore-ltsc2025`, `8.3-rc-windowsservercore-ltsc2025`](https://github.com/docker-library/mongo/blob/d7a18fed30efc943c53cf73003afc638a5ba8f59/8.3-rc/windows/windowsservercore-ltsc2025/Dockerfile)
+-	[`8.3.1-windowsservercore-ltsc2025`, `8.3-windowsservercore-ltsc2025`](https://github.com/docker-library/mongo/blob/f9e0e782f5dd8bbd88d8be0e65ff226c898823c5/8.3/windows/windowsservercore-ltsc2025/Dockerfile)
 
--	[`8.3.0-rc5-windowsservercore-ltsc2022`, `8.3-rc-windowsservercore-ltsc2022`](https://github.com/docker-library/mongo/blob/d7a18fed30efc943c53cf73003afc638a5ba8f59/8.3-rc/windows/windowsservercore-ltsc2022/Dockerfile)
+-	[`8.3.1-windowsservercore-ltsc2022`, `8.3-windowsservercore-ltsc2022`](https://github.com/docker-library/mongo/blob/f9e0e782f5dd8bbd88d8be0e65ff226c898823c5/8.3/windows/windowsservercore-ltsc2022/Dockerfile)
 
--	[`8.3.0-rc5-nanoserver-ltsc2022`, `8.3-rc-nanoserver-ltsc2022`](https://github.com/docker-library/mongo/blob/d7a18fed30efc943c53cf73003afc638a5ba8f59/8.3-rc/windows/nanoserver-ltsc2022/Dockerfile)
+-	[`8.3.1-nanoserver-ltsc2022`, `8.3-nanoserver-ltsc2022`](https://github.com/docker-library/mongo/blob/f9e0e782f5dd8bbd88d8be0e65ff226c898823c5/8.3/windows/nanoserver-ltsc2022/Dockerfile)
 
 -	[`8.2.7-noble`, `8.2-noble`, `8-noble`, `noble`](https://github.com/docker-library/mongo/blob/270944368960098ac8fe09d7ff75720de529edec/8.2/Dockerfile)
 
@@ -62,20 +62,20 @@ WARNING:
 
 ## Shared Tags
 
--	`8.3.0-rc5`, `8.3-rc`:
+-	`8.3.1`, `8.3`:
 
-	-	[`8.3.0-rc5-noble`](https://github.com/docker-library/mongo/blob/d7a18fed30efc943c53cf73003afc638a5ba8f59/8.3-rc/Dockerfile)
-	-	[`8.3.0-rc5-windowsservercore-ltsc2025`](https://github.com/docker-library/mongo/blob/d7a18fed30efc943c53cf73003afc638a5ba8f59/8.3-rc/windows/windowsservercore-ltsc2025/Dockerfile)
-	-	[`8.3.0-rc5-windowsservercore-ltsc2022`](https://github.com/docker-library/mongo/blob/d7a18fed30efc943c53cf73003afc638a5ba8f59/8.3-rc/windows/windowsservercore-ltsc2022/Dockerfile)
+	-	[`8.3.1-noble`](https://github.com/docker-library/mongo/blob/f9e0e782f5dd8bbd88d8be0e65ff226c898823c5/8.3/Dockerfile)
+	-	[`8.3.1-windowsservercore-ltsc2025`](https://github.com/docker-library/mongo/blob/f9e0e782f5dd8bbd88d8be0e65ff226c898823c5/8.3/windows/windowsservercore-ltsc2025/Dockerfile)
+	-	[`8.3.1-windowsservercore-ltsc2022`](https://github.com/docker-library/mongo/blob/f9e0e782f5dd8bbd88d8be0e65ff226c898823c5/8.3/windows/windowsservercore-ltsc2022/Dockerfile)
 
--	`8.3.0-rc5-windowsservercore`, `8.3-rc-windowsservercore`:
+-	`8.3.1-windowsservercore`, `8.3-windowsservercore`:
 
-	-	[`8.3.0-rc5-windowsservercore-ltsc2025`](https://github.com/docker-library/mongo/blob/d7a18fed30efc943c53cf73003afc638a5ba8f59/8.3-rc/windows/windowsservercore-ltsc2025/Dockerfile)
-	-	[`8.3.0-rc5-windowsservercore-ltsc2022`](https://github.com/docker-library/mongo/blob/d7a18fed30efc943c53cf73003afc638a5ba8f59/8.3-rc/windows/windowsservercore-ltsc2022/Dockerfile)
+	-	[`8.3.1-windowsservercore-ltsc2025`](https://github.com/docker-library/mongo/blob/f9e0e782f5dd8bbd88d8be0e65ff226c898823c5/8.3/windows/windowsservercore-ltsc2025/Dockerfile)
+	-	[`8.3.1-windowsservercore-ltsc2022`](https://github.com/docker-library/mongo/blob/f9e0e782f5dd8bbd88d8be0e65ff226c898823c5/8.3/windows/windowsservercore-ltsc2022/Dockerfile)
 
--	`8.3.0-rc5-nanoserver`, `8.3-rc-nanoserver`:
+-	`8.3.1-nanoserver`, `8.3-nanoserver`:
 
-	-	[`8.3.0-rc5-nanoserver-ltsc2022`](https://github.com/docker-library/mongo/blob/d7a18fed30efc943c53cf73003afc638a5ba8f59/8.3-rc/windows/nanoserver-ltsc2022/Dockerfile)
+	-	[`8.3.1-nanoserver-ltsc2022`](https://github.com/docker-library/mongo/blob/f9e0e782f5dd8bbd88d8be0e65ff226c898823c5/8.3/windows/nanoserver-ltsc2022/Dockerfile)
 
 -	`8.2.7`, `8.2`, `8`, `latest`:
 
