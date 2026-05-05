@@ -26,11 +26,11 @@ WARNING:
 
 -	[`22.04`, `jammy-20260410`, `jammy`](https://git.launchpad.net/cloud-images/+oci/ubuntu-base/tree/oci/index.json?h=refs/tags/dist-jammy-amd64-20260410-9e6ed750&id=9e6ed75049b36863589a7c4e22342a3b2f097de9)
 
--	[`24.04`, `noble-20260410`, `noble`, `latest`](https://git.launchpad.net/cloud-images/+oci/ubuntu-base/tree/oci/index.json?h=refs/tags/dist-noble-amd64-20260410-a17a2429&id=a17a2429ff85ab773e86c558a75ae62053ef9936)
+-	[`24.04`, `noble-20260410`, `noble`](https://git.launchpad.net/cloud-images/+oci/ubuntu-base/tree/oci/index.json?h=refs/tags/dist-noble-amd64-20260410-a17a2429&id=a17a2429ff85ab773e86c558a75ae62053ef9936)
 
--	[`25.10`, `questing-20251217`, `questing`, `rolling`](https://git.launchpad.net/cloud-images/+oci/ubuntu-base/tree/oci/index.json?h=refs/tags/dist-questing-amd64-20251217-883bce4d&id=883bce4d25b37c4c52e6d25bcd3f2961671ce1c7)
+-	[`25.10`, `questing-20251217`, `questing`](https://git.launchpad.net/cloud-images/+oci/ubuntu-base/tree/oci/index.json?h=refs/tags/dist-questing-amd64-20251217-883bce4d&id=883bce4d25b37c4c52e6d25bcd3f2961671ce1c7)
 
--	[`26.04`, `resolute-20260413`, `resolute`, `devel`](https://git.launchpad.net/cloud-images/+oci/ubuntu-base/tree/oci/index.json?h=refs/tags/dist-resolute-amd64-20260413-3a27d9e1&id=3a27d9e12a3e722b439d04aff7d74653817ec688)
+-	[`26.04`, `resolute-20260421`, `resolute`, `latest`, `rolling`](https://git.launchpad.net/cloud-images/+oci/ubuntu-base/tree/oci/index.json?h=refs/tags/dist-resolute-amd64-20260421-1ef28df0&id=1ef28df0b01538c10742176f1255895baf84d8d0)
 
 # Quick reference (cont.)
 
